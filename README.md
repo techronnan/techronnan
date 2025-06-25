@@ -26,7 +26,7 @@
 
 ## Impacto nas Comunidades e Redes Sociais
 
-Ativo nas redes sociais com mais de **60 mil seguidores**, compartilhando conhecimentos sobre Engenharia de Dados e certificações. Alcançando mais de **3 milhões de visualizações** no LinkedIn no último ano, contribuindo significativamente para o aprendizado e crescimento de comunidades de tecnologia.
+Ativo nas redes sociais com mais de **60 mil seguidores**, compartilhando conhecimentos sobre Dados, Tech e AI. Alcançando mais de **3 milhões de visualizações** no LinkedIn no último ano, contribuindo significativamente para o aprendizado e crescimento de comunidades de tecnologia.
 
 Sou cofundador da [Comunidade Brains](https://comunidade.brains.dev/), onde colaboro para o desenvolvimento de profissionais de tecnologia no Brasil.
 
