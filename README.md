@@ -66,8 +66,3 @@ Faça parte da comunidade:
 - [Microsoft Certified Trainer (MCT)](https://learn.microsoft.com/pt-br/users/ronnanlima/credentials/c0b581dd06f669e2)
 
 ---
-
-## Estatísticas do GitHub
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=techronnan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techronnan&layout=compact&langs_count=7&theme=dark"/>
