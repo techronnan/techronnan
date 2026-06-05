@@ -3,7 +3,7 @@
 [![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=ronnanlimao)](https://github.com/techronnan)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=22&lines=Engenheiro+de+Dados+Senior;Microsoft+Certified+Trainer;Fundador+da+Dominando+Cloud;+60mil+profissionais+na+comunidade)](https://github.com/DenverCoder1/readme-typing-svg)
 
-Instrutor Certificado Microsoft e especialista em Engenharia de Dados e Cloud. Fundador da **Dominando Cloud** e cofundador da **BRAINS**, com mais de 60 mil profissionais acompanhando os conteúdos sobre Dados, IA e Tecnologia.
+Instrutor Certificado Microsoft e especialista em Engenharia de Dados e Cloud. Fundador da **Dominando Cloud** e cofundador da **BRAINS**, com mais de 60 mil profissionais acompanhando os conteúdos sobre Engenharia de Dados.
 
 ---
 
