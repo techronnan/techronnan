@@ -44,7 +44,7 @@ Instrutor Certificado Microsoft e especialista em Engenharia de Dados e Cloud. F
 
 Ativo nas redes sociais com mais de **60 mil seguidores**, compartilhando conhecimento sobre Dados, IA e Cloud. Mais de **3 milhões de visualizações** no LinkedIn no último ano.
 
-Fundador da [Dominando Cloud](https://linktr.ee/dominandocloud) e cofundador da [Comunidade BRAINS](https://comunidade.brains.dev/), onde colaboro para o desenvolvimento de profissionais de tecnologia no Brasil.
+Fundador da [Dominando Cloud](https://dominandocloud.com.br/) e cofundador da [Comunidade BRAINS](https://comunidade.brains.dev/), onde colaboro para o desenvolvimento de profissionais de tecnologia no Brasil.
 
 Faça parte da comunidade:
 
