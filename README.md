@@ -42,7 +42,7 @@ Instrutor Certificado Microsoft e especialista em Engenharia de Dados. Fundador 
 
 ## Comunidade e impacto
 
-Ativo nas redes sociais com mais de **60 mil seguidores**, compartilhando conhecimento sobre Dados, IA e Cloud. Mais de **3 milhões de visualizações** no LinkedIn no último ano.
+Ativo nas redes sociais com mais de **60 mil seguidores**, compartilhando conhecimento sobre Engenharia de Dados. Mais de **3 milhões de visualizações** no LinkedIn no último ano.
 
 Fundador da [Dominando Cloud](https://dominandocloud.com.br/) e cofundador da [Comunidade BRAINS](https://comunidade.brains.dev/), onde colaboro para o desenvolvimento de profissionais de tecnologia no Brasil.
 
